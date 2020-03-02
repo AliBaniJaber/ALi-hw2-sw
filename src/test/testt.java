@@ -15,6 +15,7 @@ public class testt {
 	public static void setUpBeforeClass() throws Exception 
 	{
 		c = new calc();
+		
 	}
 
 	
